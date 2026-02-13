@@ -1,0 +1,37 @@
+1. In this project I will perform some functions of excel and who consider in her course .
+ 
+2. find in student sheet : total , grade , average 
+
+3. find in sale data sheet : discount 4. find in employees sheet :
+
+ - =============== used function in project ==================== 
+
+================= STUDENT TABLE ================ 
+
+1. STUDENT 80+ MARKS :
+
+ USED FILETR FUNCTOIN AND FIND STUDENT ID AND NAME 
+
+2. 60+ MARKS IN ALL SUBJECT : 
+
+USED COUNTIF FUNCTOIN AND RETURN MANY STUDENT SCOR ALL SUBJECT 60+
+
+ 3. 50+ MARKS IN ALL SUBJECT : 
+
+USED COUNTIF FUNCTOIN AND RETURN MANY STUDENT SCOR ALL SUBJECT 50+
+
+ ================= SALES TABLE ================ 
+
+1. PRODUCT CODE NAD HIS MRP :
+
+ USED VLOOKUP FUNCTION AND FIND INPUT SALES ID ON MRP 
+
+2. PRODUCT SALES BY REGION : 
+
+USE TO SUMIF FUNCTOIN TO FIND REGION AND HIS SALES 
+
+3. DISCOUNT COLUMN : USE TO IFS FUNCTOIN TO FIND ON PRODUCT MRP AND DISCOUNT
+
+ ================= EMPLOYEES TABLE ================ 
+
+1. EMPLOYEES ID AND JOINING DATE : USE TO XLOOKUP
